@@ -1,6 +1,8 @@
 # 💫 About Me:
 Motivated and results-driven full-stack developer with 3 years of learning experience and 1 year of industrial experience, including an internship in React, Angular, Node.js, and Core Java. Skilled in developing scalable and efficient web applications with a solid foundation in software development principles. Proven ability to collaborate with cross-functional teams to deliver high-quality solutions.<br>
 
+#🏢Currently working as a Full stack developer intern(remote) at Makkal (Ireland).<br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwin-l-307710241) 
