@@ -6,6 +6,8 @@ Motivated and results-driven full-stack developer with 3 years of learning exper
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwin-l-307710241) 
+<a href="https://www.codechef.com/users/major_peace_46" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="major_peace_46" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ashwin613772" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashwin613772" height="30" width="40" /></a>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ashwin613772?theme=dark&font=Noto%20Sans%20Mandaic)
 
